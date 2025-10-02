@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../example2/pom.xml" />
+        <option value="$PROJECT_DIR$/../example3/pom.xml" />
+        <option value="$PROJECT_DIR$/../example4/pom.xml" />
+        <option value="$PROJECT_DIR$/../example5/pom.xml" />
+        <option value="$PROJECT_DIR$/../example6/pom.xml" />
+        <option value="$PROJECT_DIR$/../example7/pom.xml" />
+        <option value="$PROJECT_DIR$/../example8/pom.xml" />
+        <option value="$PROJECT_DIR$/../example9/pom.xml" />
+        <option value="$PROJECT_DIR$/../example10/pom.xml" />
+        <option value="$PROJECT_DIR$/../example11/pom.xml" />
+        <option value="$PROJECT_DIR$/../example12/pom.xml" />
+        <option value="$PROJECT_DIR$/../example13/pom.xml" />
+        <option value="$PROJECT_DIR$/../example14/pom.xml" />
+        <option value="$PROJECT_DIR$/../example15/pom.xml" />
+        <option value="$PROJECT_DIR$/../example16/pom.xml" />
+        <option value="$PROJECT_DIR$/../example17/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../example10/pom.xml" />
+        <option value="$PROJECT_DIR$/../example11/pom.xml" />
+        <option value="$PROJECT_DIR$/../example12/pom.xml" />
+        <option value="$PROJECT_DIR$/../example13/pom.xml" />
+        <option value="$PROJECT_DIR$/../example14/pom.xml" />
+        <option value="$PROJECT_DIR$/../example15/pom.xml" />
+        <option value="$PROJECT_DIR$/../example16/pom.xml" />
+        <option value="$PROJECT_DIR$/../example17/pom.xml" />
+        <option value="$PROJECT_DIR$/../example2/pom.xml" />
+        <option value="$PROJECT_DIR$/../example3/pom.xml" />
+        <option value="$PROJECT_DIR$/../example4/pom.xml" />
+        <option value="$PROJECT_DIR$/../example5/pom.xml" />
+        <option value="$PROJECT_DIR$/../example6/pom.xml" />
+        <option value="$PROJECT_DIR$/../example7/pom.xml" />
+        <option value="$PROJECT_DIR$/../example8/pom.xml" />
+        <option value="$PROJECT_DIR$/../example9/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
